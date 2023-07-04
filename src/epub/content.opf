@@ -80,6 +80,9 @@
 		<dc:contributor id="editor">W. R. Morrill</dc:contributor>
 		<meta property="file-as" refines="#editor">Morrill, W. R.</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="annotator">Edmond S. Naganowski</dc:contributor>
+		<meta property="file-as" refines="#annotator">Naganowski, Edmond S.</meta>
+		<meta property="role" refines="#annotator" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Stanisław Witkiewicz</dc:contributor>
 		<meta property="file-as" refines="#artist">Witkiewicz, Stanisław</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Stanis%C5%82aw_Witkiewicz</meta>
