@@ -47,17 +47,18 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Poetry</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young nobleman faces romance, feuding families, politics, and national identity during a period of social upheaval and Russian occupation.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Long Description&lt;/p&gt;
-			&lt;p&gt;Long Description&lt;/p&gt;
+			&lt;p&gt;Tadeusz Soplica is a young nobleman who returns to his family estate after completing his studies. As he reconnects with his homeland, Tadeusz becomes enamored with Zosia Horeszko, the daughter of a rival family, despite the longstanding feud between their households.&lt;/p&gt;
+			&lt;p&gt;Within the framework of the romantic storyline, &lt;a href="https://standardebooks.org/ebooks/adam-mickiewicz"&gt;Mickiewicz&lt;/a&gt; delves into the complex political and social dynamics of the era. He depicts the tensions between the Polish nobility and the occupying Russian authorities, as well as the internal conflicts among the noble families themselves. Through vivid descriptions and engaging dialogues, Mickiewicz showcases the customs, traditions, and aspirations of the Polish gentry, providing a rich portrayal of Polish society during this turbulent time.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Pan Tadeusz&lt;/i&gt; has become a cherished masterpiece of Polish literature and a symbol of national identity. This epic poem was included in UNESCO’s Memory of the World Programme in 2014.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!--books 1-6-->
 		<dc:source>https://kpbc.umk.pl/Content/233290</dc:source>
 		<!--books 7-12-->
 		<dc:source>https://archive.org/details/masterthaddeusor02mick</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">Names are tagged for their difficult pronunciations.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pan_Tadeusz</meta>
@@ -72,7 +73,7 @@
 		<dc:contributor id="translator">Maude Ashurst Biggs</dc:contributor>
 		<meta property="file-as" refines="#translator">Biggs, Maude Ashurst</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Maude_Ashurst_Biggs</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">Chttp://id.loc.gov/authorities/names/n80007868</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n80007868</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">wpr</meta>
