@@ -55,7 +55,7 @@
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!--books 1-6-->
-		<dc:source>https://kpbc.umk.pl/Content/233290</dc:source>
+		<dc:source>https://archive.org/details/master-thaddeus-vol-1</dc:source>
 		<!--books 7-12-->
 		<dc:source>https://archive.org/details/masterthaddeusor02mick</dc:source>
 		<meta property="se:production-notes">(1) Names are tagged for their difficult pronunciations. (2) se find-unusual-characters flags diacritics used in the Polish language and pronunciation guide.</meta>
