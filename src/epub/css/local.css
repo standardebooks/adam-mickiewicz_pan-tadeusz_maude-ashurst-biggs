@@ -61,8 +61,12 @@ footer{
 [epub|type~="z3998:poem"] p + p{
 	margin-top: 1em;
 }
+/* End hymn, poem, verse */
 
 .line-break span:first-child{
 	vertical-align: 100%;
 }
-/* End hymn, poem, verse */
+
+.line-break span > span[xml|lang]{
+	vertical-align: initial;
+}
