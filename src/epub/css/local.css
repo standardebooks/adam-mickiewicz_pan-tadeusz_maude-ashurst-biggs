@@ -63,10 +63,12 @@ footer{
 }
 /* End hymn, poem, verse */
 
-.line-break span:first-child{
+/* Dropped line */
+.dl2 span:first-child{
 	vertical-align: 100%;
 }
 
-.line-break span > span[xml|lang]{
+.dl2 span > span[xml|lang]{
 	vertical-align: initial;
 }
+/* End dropped line */
