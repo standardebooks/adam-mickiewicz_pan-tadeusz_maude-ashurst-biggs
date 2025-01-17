@@ -59,7 +59,7 @@
 		<!--books 7-12-->
 		<dc:source>https://archive.org/details/masterthaddeusor02mick</dc:source>
 		<meta property="se:production-notes">(1) Names are tagged for their difficult pronunciations.</meta>
-		<meta property="se:word-count">95131</meta>
+		<meta property="se:word-count">95130</meta>
 		<meta property="se:reading-ease.flesch">68.3</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pan_Tadeusz</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/adam-mickiewicz_pan-tadeusz_maude-ashurst-biggs</meta>
