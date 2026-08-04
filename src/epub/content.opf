@@ -49,7 +49,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Poetry</meta>
-		<dc:abstract>A young nobleman explores romance, feuding families, politics, and national identity during a period of social upheaval and Russian occupation.</dc:abstract>
+		<meta property="schema:abstract">A young nobleman explores romance, feuding families, politics, and national identity during a period of social upheaval and Russian occupation.</meta>
 		<dc:description>
 			&lt;p&gt;Tadeusz Soplica is a young nobleman who returns to his family estate after completing his studies. As he reconnects with his homeland, Tadeusz becomes enamored with Zosia Horeszko, the daughter of a rival family, despite the longstanding feud between their households.&lt;/p&gt;
 			&lt;p&gt;Within the framework of this romantic storyline, &lt;a href="https://standardebooks.org/ebooks/adam-mickiewicz"&gt;Mickiewicz&lt;/a&gt; delves into the complex political and social dynamics of the era. He depicts the tensions between the Polish nobility and the occupying Russian authorities, as well as the internal conflicts among the noble families themselves. Through vivid description and engaging dialogue, Mickiewicz showcases the customs, traditions, and aspirations of the Polish gentry, making for a rich portrayal of Polish society during this turbulent time.&lt;/p&gt;
