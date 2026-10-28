@@ -85,6 +85,7 @@
 		<meta property="role" refines="#writer-of-introduction" scheme="marc:relators">win</meta>
 		<dc:contributor id="annotator">Edmond S. Naganowski</dc:contributor>
 		<meta property="file-as" refines="#annotator">Naganowski, Edmond S.</meta>
+		<link href="https://en.wikipedia.org/wiki/Edmund_Naganowski" refines="#annotator" rel="schema:sameAs"/>
 		<meta property="role" refines="#annotator" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Stanisław Witkiewicz</dc:contributor>
 		<meta property="file-as" refines="#artist">Witkiewicz, Stanisław</meta>
